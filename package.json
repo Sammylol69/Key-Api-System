@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.3.4",
+    "psn-api": "^2.10.1"
+  },
+  "devDependencies": {
+    "dotenv": "^16.4.5",
+    "nodemon": "^3.1.0"
+  },
+  "name": "api",
+  "version": "1.0.0",
+  "main": "api.js",
+  "scripts": {
+    "Dev": "nodemon src/server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
